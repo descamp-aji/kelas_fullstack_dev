@@ -6,8 +6,6 @@ function addition(a, b) {
   return a + b;
 }
 
-function penguranan(a, b) {
-  return a - b;
-}
+const pengurangan = (a, b) => a - b;
 
-console.log(multiply(3, 4));
+console.log(pengurangan(3, 4));
