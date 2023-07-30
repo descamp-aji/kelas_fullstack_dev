@@ -7,3 +7,7 @@ function multiply(a, b) {
 function addition(a, b) {
   return a + b;
 }
+
+function penguranan(a, b) {
+  return a - b;
+}
