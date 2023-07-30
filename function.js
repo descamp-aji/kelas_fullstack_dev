@@ -11,3 +11,5 @@ function addition(a, b) {
 function penguranan(a, b) {
   return a - b;
 }
+
+console.log(multiply(3, 4));
